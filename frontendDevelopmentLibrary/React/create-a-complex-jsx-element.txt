@@ -1,0 +1,9 @@
+const JSX = <div>
+  <h1>A header</h1>
+  <p>A paragraph</p>
+  <ul>
+    <li>an unordered list</li>
+    <li>an unordered list</li>
+    <li>an unordered list</li>
+  </ul>
+</div>
